@@ -15,7 +15,7 @@ You can use this page as the main reference to see:
 - when a chapter was last updated,
 - and which topics are coming next.
 
-I recommend bookmarking this page, as it will also be used for future announcements and updates related to the series.
+This page will also be used for future announcements and updates related to the series.
 
 # Main Outline
 
