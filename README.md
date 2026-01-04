@@ -20,7 +20,7 @@ This page will also be used for future announcements and updates related to the 
 # Main Outline
 
 ### PART 1: Foundations
-- [Chapter 1: Container Security Threat Model](./part_01_Foundations/00_chapter_Container_Basics/README.md) (updated: 4.1.2026)
+- [Chapter 1: Container Security Threat Model](./part_01_Foundations/01_chapter_Container_Security_Threat_Model/README.md) (updated: 4.1.2026)
 - Chapter 2: How Container Isolation Works (writing in progress)
 
 ### PART 2: Secure Container Image Building
