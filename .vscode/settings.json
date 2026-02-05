@@ -1,6 +1,8 @@
 {
     "cSpell.words": [
         "errno",
+        "setgid",
+        "setuid",
         "syscalls",
         "Userspace"
     ]
