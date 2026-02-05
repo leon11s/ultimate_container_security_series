@@ -22,8 +22,12 @@ This page will also be used for future announcements and updates related to the 
 ### PART 1: Foundations
 - [Chapter 1: Container Security Threat Model](./part_01_Foundations/01_chapter_Container_Security_Threat_Model/README.md) (updated: 4.1.2026)
 - [Chapter 2: Linux System Calls](./part_01_Foundations/02_chapter_Linux_System_Calls/README.md) (updated: 7.1.2026)
-- Chapter 3: Linux File Permissions (writing in progress)
-- Chapter 4: Linux Namespaces (writing in progress)
+- [Chapter 3: Linux File Permissions](./part_01_Foundations/03_Linux_File_Permissions/README.md) (updated: 5.2.2026)
+- Chapter 4: Linux Capabilities (writing in progress)
+- Chapter 5: Linux Control Groups (cgroups) (writing in progress)
+- Chapter 6: Linux Namespaces (writing in progress)
+- Chapter 7: Understanding Container Isolation (writing in progress)
+- Chapter 8: Container Related Vulnerabilities and Attacks
 
 ### PART 2: Secure Container Image Building
 
